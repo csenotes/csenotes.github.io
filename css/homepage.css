@@ -1,0 +1,90 @@
+.image1
+{
+	width: 72%;
+    margin-left: 32%;
+}
+.yes:hover
+{
+	opacity:0.5;
+	filter:alpha(opacity=50);
+	border:1px solid blue;
+	-webkit-transition:border 1s;
+}
+.abcd
+{
+	background-color:#212121;
+}
+.abcd1
+{
+	background-color:#2a2a2c;
+}
+.gco
+{
+	color:#898987 !important;
+}
+.bd{
+    margin-top: 3rem !important;
+}
+.bdl
+{
+	border-left:2px solid yellow;
+}
+.place
+{
+	position:relative;
+	background-image:url(../images/place.png);
+    background-size: 100%;
+	background-repeat:no-repeat;
+	padding-bottom:19%;
+}
+.movecenter
+{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+}
+.civil
+{
+	background-image:url(../images/civil1.jpeg);
+    background-size: 100%;
+	background-repeat:no-repeat;
+	padding-bottom:19%;
+}
+.codet
+{
+	background-image:url(../images/down.jpeg);
+    background-size: 100%;
+	background-repeat:no-repeat;
+	padding-bottom:19%;
+}
+.ncc
+{
+	background-image:url(../images/ncc.png);
+    background-size: 100%;
+	background-repeat:no-repeat;
+	padding-bottom:19%;
+}
+.echo
+{
+	background-image:url(../images/echo.jpeg);
+    background-size: 100%;
+	background-repeat:no-repeat;
+	padding-bottom:19%;
+}
+.alumni
+{
+	background-image:url(../images/alumni.png);
+    background-size: 100%;
+	background-repeat:no-repeat;
+	padding-bottom:19%;
+}
+.colo
+{
+	color:#2efb09;
+	font-size:150%;
+}
+.bod
+{
+	border:2px solid black;
+}

@@ -66,7 +66,7 @@
 	line-height: 35px;
 	position: relative;
 	font-weight: 400;
-	color: rgba(26,89,120,0.9);
+	color: rgb(249 249 249 / 90%);
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
     padding: 0px 0px 5px 0px;
 }

@@ -178,10 +178,10 @@
 .resp
 {
   width: 100%;
-  height: auto;
+  height: 50%;
  border-radius:10px;
 }
-resp:hover {
+.resp:hover {
   /* Start the shake animation and make the animation last for 0.5 seconds */
   animation: shake 0.5s;
 

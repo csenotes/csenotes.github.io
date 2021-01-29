@@ -188,4 +188,12 @@
   /* When the animation is finished, start again */
   animation-iteration-count: infinite;
 }
-
+.resp1
+{
+  width: 100%;
+  height: 50%;
+ border-radius:10px;
+}
+.resp1:hover{
+	transform:scale(1.3);
+}

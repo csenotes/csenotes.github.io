@@ -202,11 +202,11 @@
 }
 .bg
 {
-	background:url(images/bg-pattern.png),linear-gradient(to left,#03a6f4,#ffb13bd1,#0f6547);
+	background:url(/images/bg-pattern.png),linear-gradient(to left,#03a6f4,#ffb13bd1,#0f6547);
 }
 .bg1
 {
-	background:url(images/pat12.png),linear-gradient(to left,#03a6f4,#ffb13bd1,#0f6547);
+	background:url(/images/pat12.png),linear-gradient(to left,#03a6f4,#ffb13bd1,#0f6547);
 }
 .brad
 {

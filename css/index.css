@@ -215,3 +215,11 @@
 .anc{
     color: #477dd0;
 }
+.bl:hover{
+	background-color:black;
+	color:white;
+}
+.bl1:hover{
+	background-color:white;
+	color:black;
+}
